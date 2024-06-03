@@ -14,6 +14,7 @@
   <img align: "center" src="https://img.shields.io/badge/Javascript-3DDC84?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img align: "center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>      
   <img align: "center" src="https://img.shields.io/badge/Postgresql-3DDC84?style=for-the-badge&logo=Postgresql&logoColor=white"/>
+  <img align: "center" src="https://img.shields.io/badge/Gdscript-00599C?style=for-the-badge&logo=GdscriptColor=white"/>
 </div>
 
   
