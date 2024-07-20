@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">'m Gregório from Rio grande do Sul Brasil <br><br>- 🔭 I'm working as a backend developer using mainly python<br>- 📚 I'm currently learning DevOps and general backend development<br>- ⚡ In my free time I like to make games using Godot</p>
+<p align="left">I'm Gregório from Rio grande do Sul Brasil <br><br>- 🔭 I'm working as a backend developer using mainly python<br>- 📚 I'm currently learning DevOps and general backend development<br>- ⚡ In my free time I like to make games using Godot</p>
 
 ###
 
