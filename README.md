@@ -1,27 +1,41 @@
-###  Olá, eu sou o Gregório Kessler Steinke ✌️
- <div>
-  <a href="https://github.com/gregoriok">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gregoriok&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/></br>
-   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriok&layoutt&langs_count=7&theme=gruvbox"/>
-</div>
-<div style="display: inline_block"><br>
- 
-   ## Técnologias
-
- <div style="display: inline_block"</br>
-  <img align: "center" src="https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align: "center" src="https://img.shields.io/badge/Javascript-3DDC84?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img align: "center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>      
-  <img align: "center" src="https://img.shields.io/badge/Postgresql-3DDC84?style=for-the-badge&logo=Postgresql&logoColor=white"/>
-  <img align: "center" src="https://img.shields.io/badge/Gdscript-00599C?style=for-the-badge&logo=GdscriptColor=white"/>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
-  
- ## Sociais
- <div>
-  <a href="https://www.linkedin.com/in/gregorio-kessler-9b016b153/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
- 
- 
- 
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">'m Gregório from Rio grande do Sul Brasil <br><br>- 🔭 I'm working as a backend developer using mainly python<br>- 📚 I'm currently learning DevOps and general backend development<br>- ⚡ In my free time I like to make games using Godot</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
