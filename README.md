@@ -6,6 +6,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gregoriok.gregoriok&"  />
+</div>
+
+###
+
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -14,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Gregório from Rio grande do Sul Brasil <br><br>- 🔭 I'm working as a backend developer using mainly python<br>- 📚 I'm currently learning DevOps and general backend development<br>- ⚡ In my free time I like to make games using Godot</p>
+<p align="left">'m Gregório from Rio grande do Sul Brasil <br><br>- 🔭 I'm working as a backend developer using mainly python<br>- 📚 I'm currently learning DevOps and general backend development<br>- ⚡ In my free time I like to make games using Godot</p>
 
 ###
 
@@ -37,5 +43,11 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gregoriok&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
